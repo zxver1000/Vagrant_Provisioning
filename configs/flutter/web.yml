@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: flutter-web-vol
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: flutter-html
+  template:
+    metadata:
+      labels:
+        app: flutter-html
+    spec:
+      containers:
+        - image: wlwhs5014/flutter_web:0.0.5
+
+          name: cat-html-con
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: flutter-web
+spec:
+  selector:
+    app: flutter-html
+  ports:
+    - name: http
+      protocol: TCP
+      port: 80
+      targetPort: 80
+  externalIPs:
+    - 211.183.5.111
+  type: LoadBalancer

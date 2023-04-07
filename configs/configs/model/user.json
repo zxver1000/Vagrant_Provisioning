@@ -1,0 +1,28 @@
+{
+  "id": "users",
+  "type": "model",
+  "proxy-list": [],
+  "log": "true",
+  "columns": {
+    "SEQ": "integer",
+    "NAME": "string",
+    "AGE": "integer",
+    "word": "array",
+    "data2": "array",
+    "part1": "array",
+    "part2": "array",
+    "part3": "array",
+    "part4": "array",
+    "part5": "array",
+    "part6": "array",
+    "part7": "array",
+    "part8": "array",
+    "part9": "array",
+    "part10": "array",
+    "password": "string",
+    "word_complete": "array",
+    "phone_number": "string"
+  },
+  "auth": "no",
+  "not-null": ["NAME"]
+}

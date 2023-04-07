@@ -1,0 +1,4648 @@
+{
+    "message": "HTTP Ok",
+    "data": [
+        {
+            "NAME": "zx",
+            "part1": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "part10": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                }
+            ],
+            "NAME": "abc",
+            "part8": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "password": "abc",
+            "part4": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "phone_number": "010-1111-1111",
+            "part9": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                }
+            ],
+            "part6": [
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part2": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part7": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part3": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                }
+            ],
+            "part5": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part1": [
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ]
+        },
+        {
+            "part1": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "NAME": "zxc",
+            "part3": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part9": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part6": [
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                }
+            ],
+            "phone_number": "11",
+            "part7": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "password": "zxc",
+            "part5": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                }
+            ],
+            "part10": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part4": [
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                }
+            ],
+            "part2": [
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                }
+            ],
+            "part8": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                }
+            ]
+        },
+        {
+            "phone_number": "11",
+            "part6": [
+                {
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "pass": 0,
+                    "pass_mul": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "pass_ju": 0,
+                    "pass": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "pass": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "pass": 0
+                },
+                {
+                    "pass_mul": 0,
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "try_count_ju": 0,
+                    "pass_ju": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "pass": 0
+                },
+                {
+                    "pass_mul": 0,
+                    "try_count_mul": 0,
+                    "try_count_ju": 0,
+                    "pass": 0,
+                    "pass_ju": 0
+                },
+                {
+                    "pass_mul": 0,
+                    "try_count_mul": 0,
+                    "try_count_ju": 0,
+                    "pass_ju": 0,
+                    "pass": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "try_count_ju": 0,
+                    "try_count_mul": 0
+                }
+            ],
+            "part1": [
+                {
+                    "try_count_ju": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "try_count_ju": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "pass": 0
+                },
+                {
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "try_count_ju": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "pass": 0,
+                    "try_count_mul": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_mul": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_mul": 0,
+                    "pass": 0
+                }
+            ],
+            "part2": [
+                {
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "pass": 0,
+                    "try_count_mul": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "pass_ju": 0
+                },
+                {
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "pass_ju": 0,
+                    "pass": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_mul": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "pass": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0
+                }
+            ],
+            "part8": [
+                {
+                    "try_count_mul": 0,
+                    "try_count_ju": 0,
+                    "pass": 0,
+                    "pass_mul": 0,
+                    "pass_ju": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "pass": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "pass": 0,
+                    "pass_ju": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "pass_ju": 0
+                },
+                {
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_mul": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "try_count_ju": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_mul": 0,
+                    "pass_ju": 0,
+                    "pass": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "pass": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_mul": 0
+                }
+            ],
+            "part7": [
+                {
+                    "pass": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "pass_mul": 0,
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "try_count_ju": 0,
+                    "pass_ju": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_mul": 0,
+                    "pass_ju": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "pass": 0,
+                    "pass_mul": 0,
+                    "try_count_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "pass": 0
+                }
+            ],
+            "password": "test1",
+            "part10": [
+                {
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "try_count_mul": 0,
+                    "pass": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "try_count_ju": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "pass": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "pass": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "pass_ju": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "pass": 0
+                }
+            ],
+            "part4": [
+                {
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "pass": 0,
+                    "pass_mul": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "try_count_ju": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count_mul": 0,
+                    "try_count_ju": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "pass_ju": 0
+                },
+                {
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "pass": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0
+                }
+            ],
+            "part3": [
+                {
+                    "pass_mul": 0,
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "try_count_ju": 0,
+                    "pass_ju": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count_mul": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "pass": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "pass": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "pass": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "pass_ju": 0
+                }
+            ],
+            "part9": [
+                {
+                    "pass": 0,
+                    "try_count_mul": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "pass_ju": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "try_count_mul": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "try_count_mul": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "pass_ju": 0
+                },
+                {
+                    "pass": 0,
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "try_count_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "pass": 0,
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "try_count_ju": 0,
+                    "pass_mul": 0
+                }
+            ],
+            "part5": [
+                {
+                    "pass_mul": 0,
+                    "pass": 0,
+                    "try_count_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_ju": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "try_count_mul": 0,
+                    "pass": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "pass": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "try_count_mul": 0,
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "pass": 0
+                },
+                {
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "pass_ju": 0,
+                    "pass": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "pass_ju": 0,
+                    "pass_mul": 0,
+                    "try_count_ju": 0,
+                    "try_count_mul": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_mul": 0,
+                    "pass": 0
+                },
+                {
+                    "pass_mul": 0,
+                    "pass_ju": 0,
+                    "try_count_ju": 0,
+                    "pass": 0,
+                    "try_count_mul": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "try_count_mul": 0,
+                    "pass_ju": 0,
+                    "pass": 0,
+                    "pass_mul": 0
+                },
+                {
+                    "try_count_ju": 0,
+                    "pass": 0,
+                    "pass_mul": 0,
+                    "try_count_mul": 0,
+                    "pass_ju": 0
+                }
+            ],
+            "NAME": "test1"
+        },
+        {
+            "part10": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                }
+            ],
+            "part7": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part6": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                }
+            ],
+            "part3": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part1": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "password": "aa",
+            "NAME": "asd",
+            "part4": [
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part5": [
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part2": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part8": [
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part9": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "phone_number": "010-1111-1111"
+        },
+        {
+            "part1": {
+                "just": "정당한/ 공평한",
+                "shake hands": "악수하다",
+                "proper": "적당한/ 적절한",
+                "infantile mortality": "유아 사망률",
+                "vary": "변하다/ 다양하다",
+                "master": "주인",
+                "weekend": "주말",
+                "inheritance": "유전/ 유산",
+                "universal": "우주의/ 보편적인",
+                "in the place of": "～대신에",
+                "originality": "독창성",
+                "natural": "자연의/ 본능적인/ 당연한",
+                "inferiority": "열등/ 열등의식",
+                "beverage": "음료",
+                "scare": "놀라게 하다",
+                "keep the change.": "잔돈가지셰요.",
+                "demonstrate": "표시하다/시위하다/ 전시하다",
+                "female": "여성의",
+                "conversation": "대화",
+                "appear": "나타나다/ ～ 인 것 같다",
+                "society": "사회",
+                "oppression": "억압",
+                "appointed": "정해진/ 약속된",
+                "state": "상태/진술하다",
+                "be scared at": "～에 깜짝 놀라다",
+                "territory": "영역",
+                "strict": "엄격한",
+                "lately": "최근에",
+                "safety": "안전",
+                "avoid": "피하다",
+                "meat": "고기",
+                "origin": "기원/ 시초",
+                "gradually": "점차로",
+                "weed": "잡초",
+                "considerable": "상당한",
+                "inferior": "열등한",
+                "leave": "떠나다/ 남겨두다",
+                "antiquity": "낡은/ 고색/ 고대",
+                "symbol": "상징/ 징표",
+                "immortal": "죽지 않은/ 불멸의",
+                "social": "사회적인",
+                "custom": "고객/ 단골/ 습관/ 관습",
+                "consideration": "고려/ 생각",
+                "handshake": "악수",
+                "male": "남성의",
+                "enslave": "노예로 만들다",
+                "these days": "최근에",
+                "invention": "발명",
+                "invent": "발명하다/ 만들다",
+                "mortality": "사망/ 죽음",
+                "justice": "정의",
+                "drown": "물에 빠지다/ 익사하다",
+                "trainer": "훈련자",
+                "vacation": "휴일/ 휴가",
+                "vocation": "직업",
+                "religion": "종교",
+                "the statue of liberty": "자유의 여신상",
+                "even if": "비록 ～ 라 할지라도",
+                "peace": "평화",
+                "slavery": "노예",
+                "manner": "방법/ 태도",
+                "intelligence": "지식",
+                "symbolic": "상징적인",
+                "which to choose": "무엇을 고를지",
+                "socialize": "사회화하다",
+                "superiority": "우수/ 우월감",
+                "justify": "정당화하다",
+                "especially": "특히",
+                "holiday": "휴일/ 휴가",
+                "lawful": "법적인",
+                "immortality": "불멸/ 영원",
+                "appointment": "약속",
+                "theory": "이론",
+                "deal in": "장사하다",
+                "bag": "짐/ 수화물",
+                "familiarize": "알다/ 친숙하게 하다",
+                "deal with": "～ 을 다루다",
+                "make an appointment": "(시간)약속하다",
+                "take care of": "～를 돌보다",
+                "sociable": "사교적인",
+                "illegal": "불법적인",
+                "customary": "습관적인/ 통상적인",
+                "do ～ harm": "손해를 주다",
+                "practice": "관행/ 습관/연습하다",
+                "various": "다양한/ 여러 가지의",
+                "converse": "대화하다",
+                "weapon": "무기",
+                "submission": "굴복/ 항복/ 제출",
+                "manners": "예의 범절",
+                "recently": "최근에",
+                "take a walk": "산책하다",
+                "weakness": "약함",
+                "at first": "처음에는",
+                "share": "나누다/ 공유하다",
+                "pork": "돼지고기",
+                "rival": "라이벌/ 경쟁자",
+                "explain": "설명하다",
+                "on the other hand": "한편",
+                "doorbell": "초인종",
+                "demonstration": "표시/ 시위/ 전시",
+                "poisonous": "독이 있는",
+                "legal": "합법적인",
+                "educational": "교육적인",
+                "safe": "안전한/ 금고",
+                "how to swim": "수영하는 방법",
+                "get bitten": "물린다",
+                "against": "대항하여/ 적대하여",
+                "where to go": "어디에 갈지",
+                "reinforce": "강화시키다",
+                "wait on": "시중들다",
+                "beef": "소고기",
+                "what to see": "무엇을 볼지",
+                "be familiar with": "～과 친숙하다",
+                "mortal": "죽는",
+                "appoint": "지명하다/ 임명하다",
+                "suppression": "저하/ 의기소침",
+                "workweek": "노동일",
+                "considering that": "～을 고려하건대",
+                "hand in": "제출하다",
+                "innately": "본래/ 선천적으로",
+                "frankly speaking": "솔직히 말하여",
+                "make a promise": "약속하다",
+                "golden hours": "골든 아워",
+                "rib": "갈비뼈",
+                "awful": "무서운/ 무시무시한",
+                "inherit": "상속하다/ 이어받다",
+                "antique": "옛날의/ 오래된/ 골동품",
+                "merely": "단순히/ 단지",
+                "nature": "자연/ 본능/ 본성",
+                "baggage": "짐/ 수화물",
+                "intelligent": "지적인",
+                "golden rule": "황금 법칙",
+                "bush": "잡초/ 잡풀",
+                "superior": "～보다 우수한",
+                "alcoholic": "술의/ 알코올의",
+                "infant": "유아",
+                "social status": "사회적 지위",
+                "babysitting": "아기 보기",
+                "endow": "부여하다/ 기부하다",
+                "oppress": "억압하다",
+                "submit": "굴복하다/ 제출하다",
+                "honor": "명예/ 명성",
+                "treat": "다루다",
+                "of late": "최근에",
+                "enlighten": "계몽시키다 개화시키다",
+                "do  ～ good": "이익이 되다",
+                "prudent": "신중한/ 사려 깊은",
+                "barbarian": "야만인",
+                "castle": "성",
+                "lean": "기대다/ 기울이다",
+                "status": "지위/ 신분",
+                "bottleful": "병째로",
+                "instead of": "～대신에",
+                "regional": "지역적인",
+                "education": "교육",
+                "variable": "변수",
+                "appearance": "출현/ 외모",
+                "do business": "장사하다",
+                "bathtub": "욕조/ 목욕탕",
+                "walk": "산책하다/ 걷다",
+                "endowment": "기부/ 기증",
+                "nowadays": "최근에",
+                "press": "누르다/ 언론/ 출판",
+                "statue": "동상",
+                "weight": "무게",
+                "variety": "다양/ 다양성",
+                "universally": "보편적으로/ 일반적으로",
+                "change": "변화하다/변화/ 잔돈/ 기분전환",
+                "bath": "목욕/ 욕실",
+                "vote": "투표/ 투표하다",
+                "even": "심지어/ ～조차도",
+                "by nature": "본래/ 출생부터",
+                "immortal will": "불멸의 의지",
+                "tube": "튜브/ 지하철(영국)",
+                "weak": "약한/ 허약한",
+                "consider": "고려하다/ 간주하다",
+                "last": "마지막/ 지난 계속하다",
+                "poison": "독",
+                "stab": "찌르다",
+                "original": "시초의/ 원래의/ 독창적인",
+                "universality": "보편성",
+                "originate": "기원이 되다/ 시초가 되다",
+                "on the contrary": "반대로",
+                "how to": "～ 하는 방법",
+                "statement": "진술",
+                "as if": "마치 ～ 처럼",
+                "train": "기차/ 훈련시키다",
+                "customs": "관세",
+                "suppress": "저하시키다",
+                "harm": "손해/ 손상",
+                "honorable": "존경할만한",
+                "peaceful": "평화로운",
+                "wait for": "기다리다",
+                "wax": "왁스",
+                "training": "훈련",
+                "religious": "종교적인",
+                "in the first place": "처음으로",
+                "even though": "비록 ～ 라 할지라도",
+                "explanation": "설명",
+                "golden saying": "금언",
+                "region": "지역",
+                "strictly": "엄격하게",
+                "law": "법",
+                "moslem": "회교도의",
+                "bathe": "～ 을 목욕시키다"
+            },
+            "part9": {
+                "unit": "단위/ 단일체/ 편성",
+                "objective": "객관적인",
+                "total": "전체의/ 절대적인",
+                "regional": "지역적인",
+                "mental": "마음의/ 정신의",
+                "immigrant": "이민자",
+                "biologist": "생물학자",
+                "on the contrary": "이에 반하여",
+                "shot": "발포/ 탄환/ 쏘다",
+                "vary": "바꾸다/ 변화하다",
+                "consumptive": "소비의/ 소모의",
+                "the amount of": "～ 의 양",
+                "on the other hand": "반면에/ 한편",
+                "subject": "과목/ 주제/ 제목",
+                "suitable": "적합한",
+                "thunder": "우뢰/ 뇌성",
+                "exclusion": "제외/ 배제",
+                "affection": "애정/ 영향/ 감동",
+                "dull": "무딘/ 둔한",
+                "immigrate": "이주하다(안으로)",
+                "prevent": "막다/ 예방하다",
+                "religion": "종교/ 신앙심",
+                "brighten": "반짝이게 하다",
+                "rejection": "거절",
+                "estimation": "평가",
+                "conduction": "유도/ 끌어들임",
+                "rank": "계급/ 순위",
+                "emigration": "이주",
+                "million": "백만/ 다수의",
+                "median": "중간의",
+                "defense": "방어",
+                "individual": "개인적인",
+                "fatal": "치명적인",
+                "Catholic": "천주교",
+                "medium": "중위/ 매개물/ 중간",
+                "share": "나누다/ 분배하다",
+                "advertisement": "선전",
+                "objectivity": "객관성/ 타당성",
+                "rub": "문지르다",
+                "distribute": "분배하다/ 배분하다",
+                "varying": "다양한",
+                "a number of": "많은",
+                "natural": "자연의/ 본성의/ 당연한",
+                "particularly": "특별히/ 특히",
+                "conclude": "끝내다/ 마무리하다",
+                "prosperity": "번영/ 번창",
+                "Protestant": "개신교",
+                "continuous": "계속적인",
+                "production": "생산",
+                "populational": "주민의",
+                "emigrant": "이주자",
+                "miracle": "기적",
+                "expenditure": "지출/ 경비",
+                "indirect": "간접의",
+                "Jewish": "유태교",
+                "affect": "영향을 미치다/ 감동시키다",
+                "canalize": "운하를 트다/ 수로를 파다",
+                "estimate": "평가하다/ 어름하다",
+                "document": "문서/ 서류",
+                "challenge": "도전/ 도전하다",
+                "subjective": "주관적인",
+                "percentage": "백분율",
+                "expend": "소비하다",
+                "products": "상품/ 생산품",
+                "spiritual": "정신의",
+                "insufficiency": "부족",
+                "quarter": "4분의1",
+                "productive": "생산적인",
+                "at the expense of": "～ 를 희생하여",
+                "obtain": "얻다/ 손에 넣다",
+                "miraculous": "기적적인",
+                "thunderstorm": "뇌우/ 벼락",
+                "supply": "공급하다",
+                "abuse": "남용/ 악용/ 욕설",
+                "choice": "선택",
+                "perished": "지친",
+                "mass media": "대중매체",
+                "prefer": "～ 을 더 좋아하다",
+                "consume": "소비하다",
+                "attack": "공격/ 습격",
+                "magazine": "잡지",
+                "chemistry": "화학",
+                "possessive": "소유의",
+                "possession": "소유/ 소유물",
+                "perish": "죽다/ 멸망하다",
+                "minority": "소수",
+                "minor": "적은/ 소수의",
+                "fatality": "죽음/ 참사",
+                "impartial": "공평한/ 공정한",
+                "grown-up": "성인",
+                "poetry": "시",
+                "major": "다수의",
+                "claim": "요구하다/ 청구하다",
+                "develop": "발달시키다",
+                "object to ～ing": "반대하다",
+                "prevention": "예방",
+                "belong to": "～ 에 속하다",
+                "drug addict": "마약 중독자",
+                "in general": "일반적으로",
+                "population": "인구/ 주민",
+                "partial": "일부분의/ 부분적인",
+                "spread": "퍼지다/ 분포하다",
+                "perpetually": "영원히/ 변함없이",
+                "possess": "소유하다/ 지니다",
+                "religious": "종교상의",
+                "appropriate": "적당한",
+                "overflow": "범람하다/ 넘치다",
+                "affection ate": "애정이 깊은",
+                "conduct": "안내하다/ 행동하다",
+                "steadily": "꾸준히/ 지속적으로",
+                "adult": "성인/ 어른",
+                "remarkably": "두드러지게/ 현저하게",
+                "the number of": "～ 의 수",
+                "distributive": "분배의",
+                "subjectivity": "주관성",
+                "in regard to": "～ 에 관하여",
+                "conflict": "투쟁/ 갈등",
+                "continue": "지속하다",
+                "emigrate": "이주하다(밖으로)",
+                "alike": "서로 같은/ 동등하게",
+                "slightly": "약하게/ 경미하게",
+                "region": "지역",
+                "insufficiently": "부족하게",
+                "in conclusion": "끝으로/ 결론으로서",
+                "shout": "외치다",
+                "consumption": "소비/ 소모",
+                "secondarily": "종속적으로/ 두 번째로",
+                "uniform": "한결같이/ 동일하게",
+                "direct": "똑바른/ 직접의/ 솔직한",
+                "material": "물질적인",
+                "property": "재산/ 소유물",
+                "popular": "유행하는",
+                "immigration": "이민/ 입국",
+                "remark": "감지하다/ 주목하다",
+                "topic": "화제/ 제목/ 주제",
+                "decrease": "감소하다",
+                "advertise": "선전하다/ 광고하다",
+                "reject": "거부하다/ 거절하다",
+                "beef": "소고기",
+                "refuse": "거절하다",
+                "variable": "변수",
+                "insufficient": "불충분한/ 부족한",
+                "development": "발달/ 개발/ 성장",
+                "unlike": "～ 과는 달리",
+                "influential": "영향력이 있는",
+                "gradually": "점차/ 차차/ 차츰",
+                "meat": "고기",
+                "selection": "선택",
+                "seaside": "바닷가/ 해안",
+                "documentary": "문서의",
+                "markedly": "현저하게/ 뚜렷하게",
+                "spirit": "정신/ 영혼",
+                "regardful": "주의 깊은/ 사려 깊은",
+                "clay": "점토/ 진흙",
+                "decline": "거절하다",
+                "perform": "수행하다/ 공연하다",
+                "marked": "현저한/ 뚜렷한",
+                "abusive": "남용하는/ 악용하는",
+                "canal": "운하/ 수로",
+                "select": "고르다/ 선택하다",
+                "acquire": "얻다/ 취득하다",
+                "biologic": "생태학의",
+                "fit": "적합하다/ 알맞다",
+                "remarkable": "주목할 만한",
+                "physical": "육체적인",
+                "increase": "증가하다",
+                "drugged": "～ 에 약을 타다",
+                "unproductive": "비생산적인",
+                "naturally": "자연히/ 당연히",
+                "expense": "비용/ 지출",
+                "infant": "유아",
+                "object": "물건/ 물체/ 목표",
+                "accompany": "동행하다",
+                "secondary": "중등학교의",
+                "rebound": "튀어 오름/ 회복",
+                "bright": "빛나는/ 선명한/ 영리한",
+                "preference": "좋아함",
+                "annual expenditure": "소비량",
+                "defend": "방어하다",
+                "various": "다양한/ 여러 가지의",
+                "variety": "다양/ 변화",
+                "conductive": "안내하는",
+                "narrow": "좁은/ 좁히다",
+                "performance": "수행/ 공연",
+                "pork": "돼지고기",
+                "billion": "십억",
+                "biology": "생물학/ 생태학",
+                "popularity": "유행",
+                "profound": "깊은/ 심오한",
+                "chemical": "화학의/ 화학적인",
+                "company": "회사/ 친구/ 동료",
+                "opportunity": "기회",
+                "flood": "홍수",
+                "rainfall": "강우/ 강수량",
+                "media": "(복수형) 매체/ 매개물",
+                "distribution": "분배/ 분포",
+                "uniformly": "일정하게",
+                "previously": "전에/ 미리",
+                "majority": "다수",
+                "popularize": "대중화하다",
+                "refusal": "거절",
+                "shut": "닫다",
+                "range": "떠돌다/ 헤매다/ 범위/ 산맥"
+            },
+            "part5": {
+                "toughen": "강하게 만들다",
+                "relax": "휴식",
+                "adult": "성인",
+                "tear": "찢다/ (복수로)눈물",
+                "day-to-day": "날마다",
+                "be eager to": "～ 을 열망하다",
+                "web": "거미줄",
+                "divide": "나누다",
+                "competitive": "경쟁적인",
+                "resemblance": "유사",
+                "endurance": "참을성",
+                "massive": "대중의/ 덩어리의",
+                "attendance": "참석",
+                "tear down": "부수다/ 무너뜨리다",
+                "productivity": "생산성",
+                "labor": "노동/ 일",
+                "intruder": "침입자/ 방해자",
+                "absorbed": "열중한/ 빼앗긴",
+                "quick": "빠른",
+                "be absorbed in": "～에 열중하다",
+                "be related to": "～과 관계되다",
+                "defensive": "방어적인/ 소극적인",
+                "context": "상황/ 문맥",
+                "intuitively": "직관적으로",
+                "aircraft": "항공기/ 비행기",
+                "clear": "맑은/ 깨끗한/ 순수한",
+                "capital": "자본/ 수도/ 주요한",
+                "deliberation": "숙고/ 고려",
+                "resemble": "유사하다/ 닮다",
+                "be surprised at": "～에 놀라다",
+                "shed tears": "눈물을 흘리다",
+                "swing": "흔들다/ 매달다",
+                "conception": "개념/ 관념",
+                "uniform": "한결같은/ 획일적인/ 제복",
+                "theater": "극장",
+                "subconsciousness": "잠재의식",
+                "inanimate": "생명이 없는",
+                "ride": "타다/ 승마하다",
+                "lift": "～ 을 들어올리다",
+                "manufacturer": "제조업자",
+                "fireless": "불 없는",
+                "justice": "정의",
+                "goods": "물품",
+                "particularly": "특히",
+                "trap": "덫/ 함정/ 올가미",
+                "mass communication": "대중 매체",
+                "consequence": "결과",
+                "utensil": "(부엌)용기/ 도구",
+                "mass media": "대중 전달매체",
+                "simmer": "폭발하려고 하다",
+                "engineer": "기사/ 기술자",
+                "sensible": "분별 있는",
+                "avoid": "피하다",
+                "performance": "수행/ 행동/ 공연",
+                "take after": "닮다",
+                "get off": "내리다",
+                "corner": "길 모퉁이/ 코너",
+                "relate": "관련시키다",
+                "subconscious": "잠재의식의",
+                "measured": "측정한",
+                "deliberately": "고의적으로/ 신중히",
+                "sociologist": "사회학자",
+                "division of labor": "분업화",
+                "hollow": "공허한/ 허전한",
+                "sensitive": "감수성 있는/ 민감한",
+                "surprise": "놀람/경악/ 뜻밖의 일",
+                "conceive": "마음에 두다",
+                "division": "분배/ 분할/ 나눗셈",
+                "manufacture": "제작/ 제조",
+                "equality": "평등",
+                "support": "지지하다/ 부양하다",
+                "process": "과정/ 절차",
+                "unless": "만약 ～ 이아니라면",
+                "day by day": "날마다",
+                "accurately": "정확히/ 확실히",
+                "harmful": "해로운",
+                "unhealthy": "불건전한",
+                "idle": "한가한/ 일이 없는",
+                "intuitive": "직관적인",
+                "confidence": "확신",
+                "comparison": "비교",
+                "relative": "관계된/ 친척",
+                "strive": "싸우다/ 겨루다/ 노력하다",
+                "disguise": "가장하다/ 숨기다",
+                "consume": "소비하다",
+                "means": "수단/ 방법",
+                "nutrient": "영양분/ 자양분",
+                "affection": "영향/ 감동/ 애정",
+                "subject": "주제/ 제목/ 과목/ 신하",
+                "defense": "방어",
+                "throw": "던지다",
+                "competition": "경쟁",
+                "attitude": "행동",
+                "hunt": "사냥하다/ 수렵하다",
+                "idleness": "나태/ 빈둥거림",
+                "inequality": "불평등",
+                "contextual": "문맥상의",
+                "ridiculous": "우스운/ 어리석은",
+                "harm": "해를 끼치다",
+                "to and fro": "앞 뒤로",
+                "acting": "연출/ 연기/ 연극",
+                "justification": "정당화",
+                "predict": "예측하다/ 예언하다",
+                "absorb": "몰두하다/ ～을 흡수하다",
+                "great-grandchild": "증손자",
+                "transport": "수송/ 교통",
+                "enduring": "인내심이 강한",
+                "lamp": "램프/ 등/ 등불",
+                "personality": "개성/ 유명 인사",
+                "tropical": "열대의",
+                "objective": "객관적인",
+                "verse": "운문",
+                "affected": "영향받은",
+                "popular": "인기 있는/ 대중의",
+                "motor coach": "버스",
+                "subject to": "～ 을 당하기 쉬운",
+                "net": "네트/ 정가의/ 순수한",
+                "eager": "열의/ 성의",
+                "conscious": "의식적인",
+                "be full of": "～ 로 가득 차다",
+                "youth": "젊음",
+                "in comparison": "비교하여",
+                "gatherer": "채취자",
+                "struggling": "투쟁하는/ 싸우는",
+                "compete": "경쟁하다",
+                "tough": "강한/ 질긴",
+                "popularly": "일반적으로/ 쉽게",
+                "defend": "방어하다/ 옹호하다",
+                "available": "사용할 수 있는",
+                "justify": "정당화시키다",
+                "investigation": "조사",
+                "intrude": "참견하다/ 들이밀다",
+                "prose": "산문",
+                "consciousness": "의식",
+                "huge": "거대한/ 막대한",
+                "popularity": "대중성",
+                "compare": "비교하다",
+                "clearance": "개간/ 개척",
+                "rain forest": "열대 우림",
+                "relationship": "관계",
+                "gather": "모으다/ 채취하다",
+                "invest": "투자하다",
+                "ridicule": "비웃음/ 조소/ 놀림",
+                "area": "지역/ 영역",
+                "possession": "소유/ 소지/ 점유",
+                "consumer": "소비자",
+                "offend": "공격하다/ 감정을 상하게 하다",
+                "prediction": "예측/ 예상",
+                "possess": "소유하다",
+                "behave": "행동하다",
+                "unconscious": "무의식적인",
+                "with confidence": "자신 있게/ 확신 있게",
+                "unconsciousness": "무의식",
+                "struggle": "격투하다/ 싸우다",
+                "curiosity": "호기심",
+                "against": "～ 에 대항하여",
+                "endure": "지탱하다(sustain)",
+                "laboratory": "실험실",
+                "passage": "경과/ 진행",
+                "investigate": "조사하다",
+                "offensive": "공격적인/ 감정을 상하는",
+                "weapon": "무기",
+                "dig": "땅을 파다/ 탐구하다",
+                "bore": "지루하게 하다",
+                "perform": "공연하다/ 수행하다",
+                "affectation": "～인 체 하기",
+                "a fluorescent lamp": "형광등",
+                "full-size": "실물 크기의",
+                "accurate": "정확한",
+                "tool": "도구/ 연장",
+                "full": "꽉찬/ 완전한",
+                "by no means": "결코～ 이 아니다",
+                "swinging": "흔들리는/ 진동하는",
+                "sub-culture": "하위 문화",
+                "remind": "상기시켜 주다",
+                "loaf": "빈둥거리다",
+                "act": "행위/ 행실",
+                "distinguish between A and B": "A와 B를 구별하다",
+                "subjective": "주관적인",
+                "by means of": "～ 에 의하여",
+                "gravitation": "중력",
+                "region": "지역/ 구역",
+                "hunting": "사냥/ 수렵",
+                "possessive": "소유의",
+                "behavior": "행동",
+                "ruin": "파괴/ 파멸/ 손해",
+                "capitalism": "자본주의",
+                "refrigerator": "냉장고",
+                "affect": "영향을 미치다/ ～인 체 하다",
+                "get on": "타다",
+                "teenager": "십대",
+                "product": "생산품/ 상품",
+                "production": "생산",
+                "marketplace": "시장",
+                "ruinous": "파괴적인",
+                "forest": "숲/ 산림/ 산림",
+                "fearlessly": "대담하게",
+                "offense": "공격",
+                "agriculture": "농업",
+                "measure": "측정/ 측량/ 치수",
+                "deliberate": "심사숙고한/ 신중한",
+                "bored": "지루한/ 따분한",
+                "surprising": "놀라운/ 의외의",
+                "curious": "호기심 있는",
+                "elegant": "우아한/ 고상한",
+                "gathering": "모임",
+                "object": "물건/ 물체/ 목표",
+                "investment": "투자/ 지출"
+            },
+            "part4": {
+                "relative": "관계된/ 친척",
+                "appeal": "간청/ 호소하기/ 매력",
+                "completion": "완성/ 성취",
+                "illustrator": "삽화가",
+                "attack": "공격",
+                "logic": "조리/ 이치",
+                "past": "과거",
+                "comparison": "비교",
+                "attention": "주의/ 배려/ 주의력",
+                "snobbish": "속물인",
+                "translation": "번역",
+                "colorful": "천연색의/ 색깔 있는",
+                "antismoking": "흡연에 반대하는",
+                "obedience": "순종/ 복종",
+                "self-acceptance": "자기 인정",
+                "train": "훈련/ 연습/ 기차",
+                "trade": "무역/ 교환/ 직업",
+                "happening": "사건",
+                "heart attack": "심장 발작/ 심장 마비",
+                "conceptive": "개념의",
+                "self-confidence": "자기확신",
+                "professional": "직업적인",
+                "do an injury": "상처를 입히다",
+                "survival": "생존",
+                "at least": "적어도",
+                "forward": "앞으로/ 전방에",
+                "intellect": "지성/ 지력/ 지능",
+                "completely": "완전히/ 완벽하게",
+                "criminal law": "형법",
+                "dull": "무딘/ 둔한/ 권태로운",
+                "self-respect": "자존심",
+                "illogical": "비논리적인",
+                "disobedient": "말안듣는",
+                "pirate": "해적/ 표절자/ 약탈하다",
+                "patent": "특허",
+                "present": "현재",
+                "evidential": "증거의",
+                "come from": "～ 로부터 나오다",
+                "free": "자유로운/ 한가한/ 공짜의",
+                "textbook": "교재",
+                "publish": "～ 을 발행하다",
+                "expand": "확대하다",
+                "radiation": "방사능",
+                "field": "분야/ 들/ 평야",
+                "acquaintance": "지식/ 아는 사이",
+                "devise": "고안해 내다",
+                "inner": "안의/ 내부의",
+                "derive from": "유래하다",
+                "reassuring": "안도감을 주는",
+                "anti-intellectual": "지식을 반대하는",
+                "concept": "개념/ 관념",
+                "slow": "천천히/ 서서히",
+                "threaten": "～ 을 위협하다",
+                "scholarship": "장학금",
+                "severely": "엄하게/ 엄격하게",
+                "victim": "희생자/ 환자",
+                "knowledgeable": "지식이 많은",
+                "publishment": "출판/ 발행",
+                "So far, so good.": "지금까지는 좋아.",
+                "immoral": "비 도덕적인",
+                "resonable": "합리적인/ 이성적인",
+                "future": "미래",
+                "upside down": "거꾸로/ 뒤집혀서",
+                "patent theft": "특허 표절",
+                "snob": "속물",
+                "development": "발전",
+                "suggestion": "언급/ 제안/ 암시",
+                "acquaint": "알리다/ 잘 알게 하다",
+                "protection": "방어",
+                "agony": "고통",
+                "waste": "낭비/ 소비/ 쓰레기",
+                "upgrade": "승격시키다",
+                "severity": "엄격/ 격렬",
+                "attraction": "매력/ 만유 인력",
+                "antichrist": "반그리스도",
+                "vigorous": "격렬한",
+                "sweep": "청소하다",
+                "intellectual": "지적인",
+                "capability": "능력",
+                "self-control": "자제",
+                "survivor": "생존자/ 유족",
+                "unreasonable": "불합리한/ 부당한",
+                "be capable of": "～ 할 수 있다",
+                "property": "재산",
+                "robber": "강도/ 도둑",
+                "be related to": "～ 과 관계되다",
+                "mess": "지저분함/ 더러운 것",
+                "logically": "당연히/ 논리적으로",
+                "request": "요구/ 주장",
+                "compare A to B": "비유하다",
+                "ballooning": "급증하는",
+                "expansion": "확대/ 팽창",
+                "fit": "건강한/ 적당한/ 적합하다",
+                "confident": "확신하는",
+                "acceptance": "수용/ 인정",
+                "prepare": "준비하다/ 마련하다",
+                "penalty kick": "페널티 킥",
+                "coverage": "적용 범위",
+                "matter": "일/ 문제/ 중요하다",
+                "reason": "이성/ 이유",
+                "trademark": "상표",
+                "uphold": "올리다/ 지지하다",
+                "accept": "받다/ 인정하다",
+                "voluntary": "자발적인",
+                "confidence": "확신/ 자신감",
+                "illustrate": "설명하다",
+                "acceptable": "수락할 수 있는",
+                "relate": "～ 을 말하다",
+                "sell": "팔다",
+                "obey": "복종하다/ 지키다",
+                "philosophy": "철학/ 근본원리",
+                "military": "군인의",
+                "criminal": "범죄의",
+                "prosperity": "번영/ 번창",
+                "civil war": "(미국)남북전쟁",
+                "weapon": "무기",
+                "slow down": "천천히 하다",
+                "as far as": "～ 하는 한",
+                "drug": "약/ 마약/ 마취제",
+                "exaggerate": "과장하다",
+                "evident": "명백한/ 확실한",
+                "attractive": "유혹적인/ 매력적인",
+                "protect": "방어하다",
+                "ballon": "경기구/ 기구/ 풍선/ 상승하다",
+                "found -founded -founded": "설립하다/ 창설하다",
+                "nuclear": "핵",
+                "lawbreaker": "범법자",
+                "attract": "끌다/ 매력을 주다",
+                "property right": "소유권",
+                "crime": "죄",
+                "preparation": "준비",
+                "virtually": "사실상",
+                "as soon as": "～ 하자 마자",
+                "threat": "협박/ 위협",
+                "penalty": "형벌/ 벌금",
+                "civil law": "민법",
+                "civilian": "민간인의",
+                "snobbishly": "속물스럽게/ 뽐내면서",
+                "suggest": "제안하다/ 암시하다",
+                "neurotic": "신경증의",
+                "logical": "논리적인",
+                "disobedience": "순종/ 복종",
+                "develop": "발전하다/ 진보하다",
+                "dullness": "둔함/ 단조로움",
+                "vigorously": "발랄하게/ 힘차게",
+                "confidential": "기밀의",
+                "convey": "수송하다/ 전달하다",
+                "reluctant": "꺼리는/ 하기 싫어하는",
+                "translate": "번역하다",
+                "so far": "지금까지",
+                "foundation": "기초/ 초석/ 근원",
+                "freedom": "자유",
+                "relation": "관계/ 관련",
+                "neurotically": "신경질적으로",
+                "rob": "빼앗다/ 약탈하다",
+                "protective": "방어적인",
+                "suggestive": "암시적인",
+                "treatment": "처우/ 치료/취급",
+                "what is worse": "설상 가상으로",
+                "vigor": "힘/ 활력/ 박력",
+                "survive": "살아 남다",
+                "inform": "알려주다",
+                "vivid": "생생한/ 선명한",
+                "massive": "크고 묵직한",
+                "information": "정보",
+                "comparative": "비교의/ 비교적인",
+                "write down": "쉽게 쓰다",
+                "attentive": "주의 깊은",
+                "statement": "진술/ 말",
+                "agonizing": "고통스러운",
+                "obedient": "복종하는/ 순종하는",
+                "expansive": "확대하는",
+                "threatening": "위협하는",
+                "antiwar": "반전",
+                "grown-up": "성인",
+                "mass": "대중/ 덩어리",
+                "exaggeration": "과장",
+                "injury": "상처/ 증상",
+                "robbery": "강도(짓)",
+                "happen": "일어나다/ 생기다",
+                "evidence": "증거/ 징표/ 증언",
+                "treat": "다루다/ 치료하다/ 대접하다",
+                "inner satisfaction": "내부 만족",
+                "update": "갱신(개정)하다",
+                "complete": "완벽한/ 완벽하게 하다",
+                "commission": "(일 따위)를 의뢰하다",
+                "pirated": "해적의",
+                "copyright": "저작권",
+                "volunteer": "지원하다",
+                "appealing": "(사람을) 끄는",
+                "scholar": "학자",
+                "probably": "아마도",
+                "forwarding": "추진/ 발송",
+                "antisocial": "반사회적인",
+                "conveyance": "수송/ 전달",
+                "severe": "엄한/엄격한",
+                "obtain": "얻다/ 받다/ 획득하다",
+                "strip": "벗기다/ 해체하다",
+                "moral": "도덕적인",
+                "illustration": "삽화/ 설명",
+                "grow up": "자라다/ 성장하다",
+                "reassure": "안심시키다",
+                "theft": "도둑질/ 절도죄",
+                "incentive": "의욕/ 열의",
+                "compare A with B": "비교하다",
+                "publisher": "출판 업자/ 출판사"
+            },
+            "NAME": "word",
+            "part8": {
+                "on the other hand": "한편/ 반면에",
+                "poor": "가난한/ 서투른/ 불쌍한",
+                "average": "평균/ 보통",
+                "arrange": "배열하다/ 정돈하다",
+                "unit": "단위/ 집단",
+                "stationary": "움직이지 않는",
+                "suggest": "암시하다/ 제안하다",
+                "secure": "확보하다/ 굳게 하다",
+                "impact": "충격/ 영향/ 충돌",
+                "crime": "죄",
+                "govern": "지배하다",
+                "avoid": "피하다",
+                "collect call": "수신자 부담전화",
+                "enable A to B": "A가 B를 가능하게 하다",
+                "effect": "결과/ 영향/ 효과",
+                "supporter": "부양자/ 지지자",
+                "homogeneous": "동질의",
+                "local": "장소의/ 지역의/ 지방의",
+                "for certain": "확실히",
+                "rate": "비율/ 요금/ 속도",
+                "sociable": "사교적인",
+                "illegality": "불법/ 위법",
+                "part": "부분/ 떨어지다/ 작별하다",
+                "catch up with": "～를 따라 잡다",
+                "organization": "조직",
+                "make up one's mind": "결심하다/ 결정하다",
+                "steadily": "착실하게/ 꾸준히",
+                "completion": "완성/ 완결/ 수료",
+                "corruption": "타락/ 부패",
+                "circumstance": "환경/ 상황",
+                "view": "견해/ 관점",
+                "essential": "필수적인",
+                "informality": "비공식",
+                "close a deal": "거래를 체결하다",
+                "impressive": "인상깊은",
+                "increase": "증가하다",
+                "drug": "약물/ 마약",
+                "social": "사회적인",
+                "finally": "마침내/ 마지막으로",
+                "deal with": "처리하다/ 다루다",
+                "clearly": "명백하게/ 분명하게",
+                "available": "이용할 수 있는",
+                "population": "인구/ 주민",
+                "arrangement": "배열/ 제도",
+                "pay": "지불하다/ 치르다",
+                "urban": "도시의",
+                "present": "현재",
+                "run": "운영하다/ 달리다",
+                "impression": "인상/ 감명/ 감동",
+                "immigration": "이민/ 이주",
+                "compact": "소형의",
+                "local call": "시내 통화",
+                "mostly": "주로",
+                "Federal government": "연방정부",
+                "delivery": "배달/ 진술/ 발언",
+                "schooling": "학교 교육/ 제도 교육",
+                "valuable": "귀중한",
+                "opportunity": "기회",
+                "forever": "영원히",
+                "remainder": "나머지",
+                "formal": "공식적인/ 격식을 차리는",
+                "innocent": "결백한/ 죄 없는",
+                "education": "교육",
+                "rural": "전원의",
+                "emigrate": "이주하다",
+                "radio station": "방송국",
+                "socialization": "사회화",
+                "disadvantage": "불리",
+                "suburb": "교외(지역)/ 근교",
+                "accompany": "동행하다",
+                "determine": "결정하다/ 결심하다",
+                "complete": "완전한/ 완벽한/ 완결하다",
+                "excellent": "우수한/ 탁월한",
+                "security": "안전/ 안보",
+                "cultural": "문화의",
+                "donate": "기부하다/ 기증하다",
+                "criminal": "죄의/ 범인",
+                "immigrate": "이민하다",
+                "catch": "붙들다/ 붙잡다",
+                "in view of": "～ 이 보이는 곳에서",
+                "future": "미래/ 장래",
+                "social circumstance": "사회 환경",
+                "force": "강요하다",
+                "certainly": "확실히/ 틀림없이",
+                "illegal": "불법의/ 위법의",
+                "organize": "조직하다",
+                "existence": "존재",
+                "informal": "격의 없는",
+                "therapeutic": "치료의",
+                "corruptive": "타락시키는/ 부패한",
+                "expectation": "기대/ 예상",
+                "memorial": "기념물/ 기념비",
+                "station": "장소/ 부서/ 신분/ 역",
+                "farewell": "작별인사/ 고별",
+                "실제로/ 참으로": "in fact",
+                "impress": "인상짓다",
+                "almost": "거의",
+                "guilt": "죄/ 유죄",
+                "be located in": "～ 에 위치하다",
+                "legal": "합법적인",
+                "locate": "위치시키다",
+                "corporate": "단체의/ 법인의",
+                "cross": "십자가/ 교차하다",
+                "steady": "확고한/ 견실한",
+                "legalize": "합법화하다",
+                "private": "사적인/ 개인적인",
+                "be certain of": "～ 을 확신하다",
+                "emigrant": "이주자(밖으로)",
+                "excel": "능가하다/ 탁월하다",
+                "remain": "남다/ 남겨두다",
+                "parting": "이별/ 작별",
+                "guilty": "유죄의",
+                "opportune": "시기가 좋은",
+                "technology": "기술",
+                "popularity": "인기/ 유행",
+                "Federal": "연방(정부)의",
+                "company": "회사/ 동료/ 친교/ 사회",
+                "dramatically": "극적으로",
+                "invaluable": "아주 귀중한",
+                "donation": "기부/ 기증",
+                "walk of life": "(사회적) 지위/ 직업",
+                "circumstantial": "형편에 따른",
+                "effective": "유효한/ 효과적인",
+                "determination": "결정/ 결심",
+                "depend on": "～ 에 달려있다",
+                "valueless": "가치 없는",
+                "discuss": "토론하다",
+                "receptive": "잘 받아들이는",
+                "dependent": "의지하는",
+                "run the risk of": "～ 의 위험을 무릅쓰다",
+                "certain": "확실한/ 어떤",
+                "deliver": "～를 배달하다",
+                "enroll": "명부에 올리다",
+                "argument": "논쟁",
+                "reception": "수용/ 접대",
+                "poorly": "가난하게/ 서툴게",
+                "memorable": "기억할 수 있는",
+                "immigrant": "이민/ 이주자(안으로)",
+                "wage": "임금/ 수당/ 급료",
+                "discussion": "토론",
+                "treat": "다루다",
+                "advertisement": "광고/ 선전",
+                "surroundings": "환경",
+                "receipt": "수취/ 영수(증)",
+                "society": "사회/ 사교/ 회",
+                "educational": "교육적인",
+                "culture": "문화",
+                "have only to": "～ 하기만 하면 된다",
+                "firefight": "소방차",
+                "independence": "독립",
+                "positive": "명백한/ 분명한",
+                "corporation": "회사/ 조합/ 협회",
+                "do business": "장사하다",
+                "affluence": "풍부/ 부유",
+                "educate": "교육하다(bring up)",
+                "leave-taking": "작별 (인사)",
+                "paid": "유급의",
+                "have an effect on": "～에 영향을 주다",
+                "affluent": "풍부한/ 풍요로운",
+                "long-distance call": "시외통화",
+                "from the point of view": "～ 의 관점에서",
+                "don't have to": "～ 할 필요가 없다",
+                "give support to": "～ 을 지지하다",
+                "excellence": "능가/ 탁월",
+                "be going to": "～ 할 예정이다",
+                "completely": "완전히",
+                "gun": "대포/ 총",
+                "positively": "명확하게/ 단호히",
+                "Farewell to arms": "무기여 잘 있거라",
+                "a farewell part": "송별회",
+                "crossbar": "빗장걸이/ 크로스바",
+                "be expected to": "actually",
+                "advertise": "광고하다/ 선전하다",
+                "exit": "출구/ 비상구/ 나가기",
+                "dramatic": "극적인/ 희곡의",
+                "prosperity": "번영/ 번창",
+                "gift": "선물/ 기증/ 기증품",
+                "corrupt": "부패시키다",
+                "dependence": "의뢰/ 의존",
+                "location": "위치선정/ 야외 촬영",
+                "take advantage of": "～을 이용하다",
+                "expect": "기대하다/ 예상하다",
+                "past": "과거",
+                "decrease": "감소하다",
+                "exist": "존재하다",
+                "well-delivered": "잘 표현된/ 잘 전달된",
+                "politically": "정치적으로",
+                "innocence": "결백/ 무죄",
+                "public": "공공의/ 대중의",
+                "suggestion": "암시/ 제안",
+                "grant": "보조금/ 승인하다",
+                "negative": "부정적인",
+                "support": "부양하다/ 지지하다",
+                "civilization": "문명",
+                "affluently": "풍부하게",
+                "poverty": "가난/ 기아",
+                "viewy": "훌륭한/ 볼만한",
+                "government": "정부",
+                "enrollment": "등록/ 입학",
+                "enable": "～ 할 수 있게 하다",
+                "independent": "독립적인",
+                "socialize": "사회화하다",
+                "deal in": "장사하다",
+                "advantage": "유리/ 이익",
+                "illegalize": "불법화하다/ 금하다"
+            },
+            "part3": {
+                "suffer from": "고통을 받다/ 고민하다",
+                "realistic": "실제적인/ 사실적인",
+                "reinforce": "강화하다/ 촉진하다",
+                "appreciate": "평가하다/ 감사하다",
+                "reform": "개혁하다/ 변혁하다",
+                "decrease": "감소시키다",
+                "heat wave": "(열파) 의 기간",
+                "incurable": "고칠 수 없는",
+                "freeze": "얼다/ 냉동시키다",
+                "a member of congress": "국회 의원",
+                "ordinary": "보통의/ 평범한",
+                "complement": "보충(물)",
+                "cause": "야기시키다",
+                "turn to": "믿다/ ～ 에 의존하다",
+                "growing-up": "청소년",
+                "identical": "동일한",
+                "convince": "확신시키다",
+                "draw": "당기다/ 그림을 그리다",
+                "recovery": "회복",
+                "curable": "고칠 수 있는",
+                "plunge": "곤두박질 치다",
+                "technique": "기술",
+                "erupt": "폭파하다/ 분화하다",
+                "convincing": "설득력 있는",
+                "complain": "불평하다",
+                "polish": "～ 의 윤을 내다",
+                "ultimate": "최종의/ 궁극적인",
+                "take notice of": "～ 을 주목하다",
+                "deer": "사슴",
+                "volcano": "화산",
+                "century": "100년/ 1세기",
+                "tangibility": "명확함/ 확실",
+                "prevent": "예방하다/ --을 막다",
+                "satisfaction": "만족(감)",
+                "death": "죽음",
+                "prevent A from B": "A가 B하는 것을 막다",
+                "issue": "논점/ 쟁점/ 출판하다",
+                "external": "외적인",
+                "withering shrub": "말라 가는 관목",
+                "in praise of": "～ 을 칭찬하여",
+                "spell": "철자를 쓰다/ 기간",
+                "institution": "시설",
+                "weather forecasting": "일기예보",
+                "for instance": "예를 들어",
+                "mercury": "수은주",
+                "the young": "젊은 사람들",
+                "resource": "자원/ 수단/ 방책",
+                "identify": "확인하다/ 식별하다",
+                "limit": "한정하다/ 제한하다",
+                "dying": "죽어 가는/ 임종의",
+                "satisfactory": "만족스러운",
+                "briskly": "활발하게/ 기운차게",
+                "gas-station": "주유소",
+                "transform A into B": "A를 B로 변환시키다",
+                "weatherman": "예보관/ 통보관",
+                "misbehavior": "잘못된 행동",
+                "aim": "목표/ 목표를 정하다",
+                "with a view to ～ing": "～할 목적으로",
+                "natural resource": "천연 자원",
+                "origin": "근원/ 기원/ 원천",
+                "notice": "주목/ 관찰/ 주목하다",
+                "glance": "힐끗 보다",
+                "differ from": "～ 과 다르다",
+                "merchant": "상인/ 사업가",
+                "conviction": "확신/ 믿음",
+                "gorilla": "고릴라",
+                "handicapped": "불구의/ 핸디캡이 붙은",
+                "pour out tea": "차를 따르다",
+                "labor": "노동",
+                "be convinced of": "～ 을 확신하다",
+                "measure": "～ 을 측정하다/측정/ 조치/ 법안",
+                "internal": "내적인",
+                "lawyer": "법률가/ 변호사",
+                "bribe": "뇌물",
+                "misery": "비참/ 궁핍",
+                "benefit": "이롭게 하다",
+                "be reassured at": "～ 에 안심하다",
+                "strangely": "이상하게",
+                "appreciation": "평가/ 감사/ 감상",
+                "in contrast": "반대로/ 대조적으로",
+                "behavior": "행동",
+                "dry spell": "건기(乾期)",
+                "reduce": "줄이다",
+                "appreciative": "감식력이 있는",
+                "tangibly": "만져서 알 수 있게",
+                "make an engagement": "서약하다",
+                "originate": "기원이 되다",
+                "computerize": "전산화하다",
+                "throughout": "～ 을 통틀어서/ 전부",
+                "in spite of": "～ 에도 불구하고",
+                "miserable": "비참한/ 궁핍한",
+                "precious metal": "귀금속",
+                "cold front": "한랭 전선",
+                "in terms of": "～ 에 의하여",
+                "ultimately": "최종적으로/ 마침내",
+                "term": "기간/ 조건/ 관계",
+                "satisfy": "만족시키다",
+                "obviously": "명백하게",
+                "I/D card": "신분증",
+                "run": "(기계를) 움직이다/ 경영하다",
+                "complaint": "불평",
+                "help": "돕다/ 피하다",
+                "goody": "맛있는 것",
+                "lawn mower": "잔디 깎는 기계",
+                "creator": "창조자",
+                "exchange": "교환하다/ 바꾸다",
+                "expect": "기대하다",
+                "in front of": "～ 의 정면에",
+                "shoe polish": "구두약",
+                "long-term effect": "장기적인 효과",
+                "bride": "신부",
+                "bride and bridegroom": "신부 신랑",
+                "congress": "국회/ 의회",
+                "damage": "손해/ 피해",
+                "straighten": "정리하다/ 정돈하다",
+                "discernment": "식별력/ 통찰력",
+                "cage": "(동물의) 우리",
+                "compliment": "칭찬",
+                "cannot help ～ing": "～하지 않을 수 없다",
+                "obvious": "명백한",
+                "be expected to": "～하지로 되어있다",
+                "reward": "보수/ 보상/ 사례",
+                "view": "관점/ 견해",
+                "checkout": "계산대",
+                "predict": "예상하다/ 예보하다",
+                "starvation": "아사/ 굶어 죽음",
+                "gradually": "점차/ 차차",
+                "gracious": "우아한",
+                "polisher": "닦는 사람/ 광내는 기구",
+                "graciously": "정중하게",
+                "law": "법",
+                "freezer": "냉각기/ 냉장고",
+                "spelling": "철자",
+                "barter": "물물 교환",
+                "offer": "제안하다/ 제공하다",
+                "be satisfied with": "～에 만족하다",
+                "have an effect on": "영향을 주다",
+                "decay": "부패하다/ 쇠퇴하다",
+                "in reward for": "～ 의 상으로",
+                "cure": "치료하다/ 고치다",
+                "adult": "성인/ 어른",
+                "the handicapped": "신체(정신) 장애자",
+                "unexpected": "기대하지 못한",
+                "creative": "창조적인",
+                "creature": "창조물/ 동물/ 산물",
+                "replace": "대신하다/ 대체하다",
+                "from a point of view": "～의 관점에서",
+                "eruption": "폭발/ 분화",
+                "effect": "효과/ 영향",
+                "debate": "토론하다/ 토론",
+                "disease": "질병/ 병",
+                "make a promise": "약속하다",
+                "graceful": "우아한",
+                "playroom": "놀이방",
+                "intangible": "무형의",
+                "pour": "쏟다/ 붓다/ 따르다",
+                "tend to": "～ 하는 경향이 있다",
+                "suffering": "재난/ 고난",
+                "attorney": "검사",
+                "reassure": "안심시키다",
+                "attend to": "～ 에 주의하다",
+                "straighten up": "정리하다",
+                "starve for": "열망하다",
+                "the century": "세기",
+                "starve": "굶어 죽다/ 갈망하다",
+                "long-term": "장기간",
+                "on the contrary": "반대로",
+                "whizz": "윙윙하며 날다",
+                "recover": "극복하다",
+                "get over": "회복하다",
+                "original": "독창적인",
+                "irresistible": "저항할 수 없는",
+                "attend on": "～ 에 시중들다",
+                "touch": "만지다",
+                "originality": "독창성",
+                "create": "～ 을 창조하다",
+                "rewarding": "보답이 있는",
+                "go about": "착수하다",
+                "nurse": "간호원/ 간호하다",
+                "attendance": "참석/ 간호/ 봉사",
+                "creation": "창조",
+                "brisk": "기운찬/ 활기찬",
+                "forecast": "～ 을 예상하다",
+                "irresistibly": "어쩔 수 없이",
+                "ancient": "옛날의/ 고대의",
+                "resist": "저항하다",
+                "array": "배열/ 배열하다",
+                "briskness": "기운참/ 활발",
+                "identification": "신분확인",
+                "approach": "접근하다/ 근접하다",
+                "be replaced by": "～ 로 대체되다",
+                "increase": "증가시키다",
+                "beneficial": "이로운/ 혜택이 되는",
+                "lawn": "잔디",
+                "front": "정면/ 전선",
+                "tangible": "유형의/ 실제의",
+                "precious": "값비싼/ 귀중한",
+                "attendant": "점원/ 안내인/ 수행원",
+                "elderly": "나이 많은/ 연장자",
+                "resistible": "저항할 수 있는",
+                "frigid": "몹시 추운/ 쌀쌀한",
+                "grace": "우아/ 은혜/ 은총",
+                "promise": "약속",
+                "dole out": "～ 을 베풀다/ 주다",
+                "praise": "칭찬하다/ 칭찬",
+                "resistance": "저항/ 반항"
+            },
+            "part6": {
+                "terrific": "아주 좋은/ 훌륭한",
+                "significant": "중요한/ 의미 심장한",
+                "federal": "연방의/ 연합의",
+                "benefit": "이익/ 이익이 되다",
+                "administrator": "경영자/ 운영자",
+                "roof": "지붕",
+                "natural": "자연의/ 본능적인/ 당연한",
+                "tempting": "유혹적인",
+                "junior to": "～ 보다 나이가 적은",
+                "protection": "보호/ 방어",
+                "inmate": "피수용자",
+                "parachute": "낙하산",
+                "prevention": "방지/ 방해/ 예방",
+                "prevent": "방지하다/ 막다",
+                "devise": "고안하다",
+                "react": "반응을 나타내다",
+                "massive": "대대적인",
+                "hide": "～ 을 숨기다/ 비밀로 하다",
+                "compart": "칸막이하다",
+                "senior": "연장자/ 어른",
+                "character": "특징/ 특성/ 등장인물",
+                "regularly": "정기적으로/ 어김없이",
+                "anything but～": "결코 ～ 하지 않는",
+                "bow": "활/ 뱃머리/ 인사하다",
+                "optimist": "낙천가",
+                "mellowness": "원숙",
+                "head start": "유리한 시작",
+                "launch": "시작하다",
+                "revolution": "혁명",
+                "cost": "비용/ 비용이 들다",
+                "scramble": "기어오르다",
+                "significance": "의미/ 주요",
+                "sheer waste": "완전한 낭비",
+                "think of A as B": "A를 B로 간주하다",
+                "magical": "마술의/ 불가사의한",
+                "cheerful": "명랑한/ 쾌활한",
+                "decline": "기울다/ 쇠퇴하다/ 거절하다",
+                "on conclusion": "결론적으로",
+                "break out": "발발하다",
+                "innocently": "천진 난만하게",
+                "break in": "침입하다",
+                "manufacture": "제조하다",
+                "outbreak": "(폭등,전쟁 등의)돌발",
+                "magic": "마술/ 주술",
+                "prerevolution": "혁명 이전",
+                "look for": "～ 을 찾다",
+                "bomb": "폭탄",
+                "limit": "한정시키다",
+                "approach": "～ 에 접근하다",
+                "boredom": "지루함(tedium)/ 권태",
+                "hard": "어려운/ 딱딱한",
+                "practiced": "숙련된/ 잘하는",
+                "cargo": "화물",
+                "endanger": "위태롭게 하다",
+                "pessimist": "비관주의자",
+                "selling": "판매의",
+                "magician": "마법사/ 마술사",
+                "attract": "끌어당기다",
+                "spiritual": "정신적인",
+                "wise": "현명한",
+                "absolute": "절대의/ 완전 무결한",
+                "decoration": "장식",
+                "replace": "～ 에 대신하다/ 교환하다",
+                "pet": "애완동물/ 소중한 물건",
+                "temptation": "유혹/ 충동",
+                "conscience": "양심",
+                "soar": "(물가 따위)가 치솟다",
+                "attraction": "매력",
+                "harden": "딱딱하게 하다",
+                "innocence": "무죄/ 결백",
+                "own": "소유하다/ 가지다",
+                "stray": "빗나간",
+                "optimism": "낙관/ 낙천주의",
+                "charming": "매력적인",
+                "a primitive man": "원시인",
+                "emotional": "감정적인",
+                "deter": "단념시키다/ 막다",
+                "package": "꾸러미/ 짐",
+                "appear": "나타나다",
+                "regulate": "통제하다/ 규제하다",
+                "declining": "기우는",
+                "thief": "도둑/ 좀도둑",
+                "manufacturer": "제조업자",
+                "life insurance": "생명보험",
+                "absolutely": "완전히/ 전적으로",
+                "content": "만족한/ 내용/ 목차",
+                "sheer": "완전한/ 순전한",
+                "appearance": "모양/ 외양/ 모습/ 출현",
+                "lane": "차선",
+                "danger": "위험",
+                "cheer": "환호/ 갈채/ 성원",
+                "retrieve": "회복하다/ 구하다",
+                "employee": "피고용인",
+                "sorrow": "슬픔/ 비애/ 비탄",
+                "insurer": "보험업자/ 보증인",
+                "wear and tear": "손상/ 소모",
+                "prison": "감옥/ 감방",
+                "priest": "신부",
+                "frightened": "깜짝 놀란/ 겁이난",
+                "prisoner": "죄수",
+                "solider": "병사/ 군인",
+                "disturbed": "정서(정신) 장애",
+                "approaching age": "(죽음에) 접근하는 나이",
+                "blessed": "신성한/ 행복한",
+                "protect": "보호하다/ 막다",
+                "individuation": "개성",
+                "hiding": "감추기/ 은신처",
+                "consciousness": "의식",
+                "inflict": "고통을 가하다",
+                "seize": "잡다/ 쥐다/ 포착하다",
+                "sorrowful": "슬픈/ 비탄에 잠긴",
+                "far more": "훨씬 더",
+                "quality": "질/ 자질",
+                "theft": "도둑질/ 절도죄",
+                "soaring": "치솟기/ 상승",
+                "a means of therapy": "치료법",
+                "precaution": "예방 조치",
+                "overall": "전반적으로",
+                "seizure": "압수/ 잡기",
+                "whip": "채찍",
+                "regular": "일상의/ 규칙적인",
+                "beating": "채찍질/ 연달아 치기",
+                "individual": "개개의/ 개인적인",
+                "cheap": "값싼",
+                "warfare": "전쟁 상태 (행위)",
+                "wonder": "놀라움",
+                "employer": "고용주",
+                "disturb": "방해하다/ 훼방하다",
+                "disturbance": "소란/ 불안/ 방해",
+                "terrible": "무서운/ 끔찍한",
+                "break down": "무너지다",
+                "compartment": "구획/ 구분/ 칸",
+                "communist": "공산주의자",
+                "arrow": "화살",
+                "statistic": "통계",
+                "factor": "요인/ 요소",
+                "spell": "주문/ 마법/ 기간",
+                "frighten": "～ 을 깜짝 놀라게 하다",
+                "hardened": "단단해진/ 냉혹한",
+                "beat": "～ 을 연달아 치다",
+                "execute": "처형하다",
+                "be frightened at": "～ 에 놀라다",
+                "kitten": "새끼 고양이",
+                "scramble to": "～ 로 서둘러 가다",
+                "shoot - shot - shot": "～ 을 쏘다",
+                "conscious": "의식적인",
+                "valueless": "가치 없는",
+                "commuter": "통근자",
+                "practice": "관습/ 연습/ 훈련",
+                "bombardment": "폭격",
+                "federal government": "연방정부",
+                "shoot up": "급속히 성장하다",
+                "seller": "판매자",
+                "roughly": "대략/ 대충",
+                "nature": "자연/ 본성/ 본능",
+                "reasonable": "적절한/ 합리적인",
+                "reawaken": "새롭게 각성하다",
+                "ban": "금지시키다",
+                "toll": "통행료",
+                "wisdom": "현명함",
+                "morally": "도덕적으로",
+                "guilty": "유죄의",
+                "innocent": "죄없는/ 결백한",
+                "mellow": "원숙한/ 성숙한/ 익은",
+                "jail": "감옥",
+                "caution": "주의",
+                "emotionally": "정서적으로",
+                "as a result": "결과적으로",
+                "moral": "도덕적인/ 도덕/ 윤리",
+                "pessimism": "비관/ 비관주의",
+                "bore": "지겹게 하다",
+                "therefore": "그러므로/ 그래서",
+                "dangerous": "위험스런",
+                "charm": "매력/ 마력",
+                "sell": "팔다/ 장사하다",
+                "tempt": "유혹하다/ 충동질하다",
+                "federate": "연합시키다",
+                "guilt": "유죄",
+                "care for": "돌보다",
+                "bless": "찬양하다",
+                "relative": "상대적인/ 친척",
+                "fright": "공포/ 경악",
+                "limitation": "한계",
+                "practical": "실용적인",
+                "senior to": "～ 보다 나이가 많은",
+                "occupy": "차지하다/ 점령하다",
+                "replace A with B": "A를 B로 대체하다",
+                "bankrupt": "파산자/ 파탄자/ 지불 불능자",
+                "puppy": "강아지",
+                "occupation": "점령/ 직업",
+                "invaluable": "아주 가치 있는",
+                "unreasonable": "불합리한",
+                "therapy": "치료/ 요법",
+                "emotion": "감정",
+                "bill": "청구서/ 지폐/ 비용/ 법안",
+                "primitive": "원시 시대의",
+                "relatively": "상대적으로",
+                "rabbit": "기르는 토끼/ 집토끼",
+                "hassle-free": "혼란(소란) 없는",
+                "reaction": "반응",
+                "leadership": "통솔력/ 지도력",
+                "remarkable": "현저하게/ 눈에 띄게",
+                "quantity": "양",
+                "care about": "걱정하다",
+                "insure": "～ 에 보험을 들다",
+                "cuddly": "꼭 껴안고 싶은/ 귀여운",
+                "valuable": "가치 있는/ 귀중품",
+                "tone": "색조/ 어조",
+                "decorate": "장식하다"
+            },
+            "part10": {
+                "instead": "대신에",
+                "condition": "조건/ 상태",
+                "behind": "～ 뒤에/ 숨어서",
+                "settlement": "정착/ 해결",
+                "merely": "단지",
+                "natural": "자연의/ 본능적인/ 당연한",
+                "physical": "육체의",
+                "respecting": "～ 에 관하여",
+                "considerate": "사려 깊은",
+                "directly": "곧장/ 직접",
+                "in short": "짧게/ 간략하게",
+                "for the purpose of": "～할 목적으로",
+                "recycle": "재활용하다",
+                "gravity": "중력/ 진지함",
+                "dormitory": "기숙사",
+                "tend to": "～ 하는 경향이 있다",
+                "lash": "채찍",
+                "chronic": "만성적인",
+                "schoolmaster": "남자 교원/ 교사",
+                "inheritance": "상속",
+                "to begin with": "우선/ 첫째로",
+                "cycle": "순환하다/ 자전거 타다",
+                "countryside": "한 지방/ 시골",
+                "necessity": "필수품",
+                "surmount": "오르다/ 극복하다",
+                "heredity": "상속/ 유전(학)",
+                "region": "지방/ 지구",
+                "favorable": "유리한/ 호의를 보이는",
+                "mental": "정신적인",
+                "warmth": "따뜻함/ 온정",
+                "offspring": "자손/ 자식/ 새끼",
+                "guide": "안내자",
+                "highly": "매우",
+                "exertive": "노력하는",
+                "since": "～ 한 이래로",
+                "medicine": "약/ 내복약",
+                "support": "부양하다/ 유지하다",
+                "matter": "물질/ 문제/ 중요하다",
+                "prefer": "～ 을 좋아하다",
+                "manner": "방법",
+                "pharaoh": "이집트의 왕",
+                "dependent": "의존하는",
+                "sincerity": "성실/ 성실함",
+                "be satisfied with": "～에 만족하다",
+                "settle": "정착하다/ 해결하다",
+                "underneath": "～ 아래에",
+                "practical": "실용적인",
+                "consequently": "따라서/ 결과적으로",
+                "seesaw": "시소",
+                "external": "외부의",
+                "arrange": "배열하다/ 정돈하다",
+                "pretty": "예쁜",
+                "high": "높이",
+                "usually": "보통의",
+                "grave": "중대한/ 중요한",
+                "disease": "병",
+                "commuting": "통근하기",
+                "nature": "자연/ 본능/ 본성",
+                "favorite": "가장 좋아하는",
+                "hereditary": "유전의/ 상속성의",
+                "in other words": "즉/ 다시 말하면",
+                "independent": "독립한",
+                "exclusive": "제외하는",
+                "sincere": "성실한/ 진지한",
+                "gene": "유전인자",
+                "consider": "생각하다/ 고려하다",
+                "objection": "반대",
+                "arrangement": "배열/ 정돈/ 배치",
+                "helpless": "무력한/ 무기력한",
+                "behave": "행동하다/ 움직이다",
+                "affair": "일/ 일거리",
+                "consideration": "생각/ 고려",
+                "totally": "전적으로/ 아주",
+                "include": "포함하다",
+                "nightfall": "일몰",
+                "conversely": "거꾸로/ 역관계에 있어서",
+                "consequent": "결과의/ 당연한",
+                "conversation": "대화/ 회화",
+                "accept": "받다/ 인정하다/ 간주하다",
+                "rearrange": "재배치하다",
+                "balloon": "기구/ 풍선",
+                "independently": "독립하여/ 자주적으로",
+                "what`s more": "게다가 또/ 그 위에",
+                "object": "물건/ 대상/ 물체/ 반대하다",
+                "permission": "허락/ 허가",
+                "regulation": "규제/ 조절",
+                "nevertheless": "그럼에도 불구하고",
+                "curiosity": "호기심",
+                "experiment": "실험/ 경험",
+                "permit": "허락하다/ 인정하다",
+                "heal": "낫게 하다/ 치유하다",
+                "cultivated": "경작된/ 교양 있는",
+                "settler": "거주민",
+                "restore": "회복하다/ 복직하다",
+                "attitude": "행동/ 태도",
+                "comfortably": "편안하게",
+                "dependence": "의존",
+                "examination": "시험",
+                "travel": "여행하다",
+                "location": "위치 선정/ 위치",
+                "cultivate": "～ 을 계발하다",
+                "satisfaction": "만족",
+                "on the other hand": "반면에",
+                "concentration": "집중",
+                "on consequence": "결과적으로",
+                "commute": "통근하다",
+                "material": "육체적인",
+                "overseer": "감독",
+                "direction": "방향/ 지시/ 지도",
+                "practice": "관습/ 관행",
+                "depend on": "의존하다",
+                "regional": "지역의",
+                "cultivation": "경작/ 교양",
+                "function": "기능/ 함수",
+                "religious": "종교적인",
+                "satisfy": "만족시키다",
+                "inherit": "상속하다/ 물려받다",
+                "exclusively": "배타적으로",
+                "shape": "모양/ 형태",
+                "prove": "시험하다/ 입증하다",
+                "artful": "교활한/ 기교를 부린",
+                "glorious": "영광스러운",
+                "consequence": "결과",
+                "inclusion": "포함",
+                "restorative": "회복하는",
+                "carry": "운반하다/ 지니다",
+                "examine": "시험하다/ 검사하다",
+                "otherwise": "반면에/ 그렇지 않으면",
+                "inclusive": "포함하는",
+                "considerateness": "사려 깊음",
+                "purpose": "목적",
+                "as soon as": "～ 하자마자 곧",
+                "coincide": "일치하다",
+                "slavery": "노예의 신분",
+                "mount": "오르다",
+                "comfort": "위안/ 편안",
+                "necessary": "필요한/ 필요의",
+                "engage": "약혼하다",
+                "mere": "단순한",
+                "regular": "규칙적인",
+                "curious": "호기심이 강한",
+                "turn A into B": "A를 B로 바꾸다",
+                "converse": "대화하다/ 반대로",
+                "concentrate": "집중하다",
+                "provide": "공급하다",
+                "be located in": "～에 위치하다",
+                "direct": "똑바른/ 지도하다",
+                "self-regulative": "자기 조절하는",
+                "necessarily": "반드시/ 필연적으로",
+                "equality": "동등함/ 평등",
+                "coincidence": "일치/ 동시 발생",
+                "uncomfortable": "불편한",
+                "use": "사용하다",
+                "permissive": "허용하는/ 관용된",
+                "respectful": "정중한",
+                "considerable": "상당한",
+                "usage": "사용법",
+                "divorce": "분리/ 이혼",
+                "commuter": "통근자",
+                "locate": "～에 위치를 정하다",
+                "acceptation": "받아들임",
+                "so long as": "～ 하는 한",
+                "exclusion": "제외/ 배타",
+                "respect": "존경/ 존경하다",
+                "on condition that": "～ 라는 조건으로",
+                "organism": "(신체의)기관",
+                "to be brief": "간단히 말해서",
+                "exert": "발휘하다/ 쓰다",
+                "behavior": "행실/ 행동",
+                "agriculture": "농업",
+                "agricultural": "농업의",
+                "parrot": "앵무새",
+                "equal": "같은",
+                "geometric": "기하(학)의",
+                "pyramid": "피라미드",
+                "scope": "범위",
+                "independence": "독립",
+                "maker": "제조업자",
+                "equally": "똑같이/ 동등하게",
+                "trait": "특색/ 특성",
+                "merely because": "단지 ～때문에",
+                "irregularly": "불규칙으로",
+                "regulate": "규제하다/ 조절하다",
+                "inclusively": "포함하여",
+                "warm": "따뜻한/ 온정이 있는",
+                "experimental": "실험에 의한",
+                "unless": "～ 하지 않는다면",
+                "commonly": "공통으로",
+                "for instance": "예를 들면",
+                "sum": "합계/ 총액",
+                "resemble": "닮다",
+                "manners": "예절/ 예의범절",
+                "exclude": "제외시키다",
+                "religion": "종교",
+                "exertion": "발휘/ 노력",
+                "marry": "결혼하다",
+                "float": "띄우다/ 표류하다",
+                "prize": "상/ 상을 주다",
+                "resemblance": "유사/ 닮음",
+                "feeling": "촉감/ 감각",
+                "internal": "내부의",
+                "take after": "닮다",
+                "stress": "스트레스/ 강세",
+                "glory": "영광"
+            },
+            "part2": {
+                "play a part in": "～의 역할을 담당하다",
+                "influence": "영향을 미치다/ 영향",
+                "scientifically": "과학적으로",
+                "recite": "～ 을 상술하다",
+                "make friends with": "친구가 되다",
+                "advance": "나아가다/ 발전하다",
+                "show off": "～ 을 자랑하다",
+                "fold": "접다",
+                "graduation": "졸업",
+                "negatively": "부정적으로",
+                "youngster": "어린이/ 젊은이",
+                "several": "여러 가지의",
+                "comfort": "편한/ 위안",
+                "chiefly": "주로/ 특히",
+                "responsibility": "책임/ 의무/ 직책",
+                "rather": "다소/ 약간",
+                "circulate": "순환하다/ 돌다",
+                "appropriation": "적당/ 적절",
+                "current English": "시사 영어",
+                "fresh": "신선한",
+                "raise": "올리다/ 양육하다",
+                "scientific": "과학의",
+                "chew up": "～ 을 엉망으로 부수다",
+                "throw": "던지다",
+                "flesh": "살/ 고기/ 육체",
+                "patient": "인내력 있는/ 환자",
+                "education": "교육",
+                "noble": "고상한/ 귀족의",
+                "clue": "단서",
+                "dreadful": "두려운(terrible)",
+                "consideration": "고려사항/ 고려/ 숙고",
+                "muscular": "근육의",
+                "capability": "능력",
+                "beneficial": "이로운",
+                "partly": "부분 적으로",
+                "means": "재산/ 수단",
+                "chief": "우두머리/ 장/ 주요한",
+                "benefit": "이익/ 혜택",
+                "safe": "안전한/ 무사히",
+                "instructor": "강사/ 교사",
+                "instruction": "교육/ 지시",
+                "pride": "자만/ 자금",
+                "passenger": "승객",
+                "demand and supply": "수요와 공급",
+                "various": "다양한",
+                "specialization": "전문화",
+                "self-conscious": "자의식의",
+                "chest": "가슴/ 흉곽",
+                "be able to": "～ 할 수 있다",
+                "flash": "섬광/ 불빛",
+                "actually": "실제로/ 정말로",
+                "suspect": "의심하다",
+                "relax": "이완시키다/  쉬다",
+                "tap": "툭툭 치다",
+                "nobleman": "귀족",
+                "take part in": "～에 참가하다",
+                "positively": "긍정적으로",
+                "reflection": "반사/ 반영",
+                "face": "얼굴/ 직면하다",
+                "suspicious": "의심하는",
+                "cope with": "～ 과 대처하다",
+                "applaud": "박수 갈채 하다",
+                "characteristics": "특징/ 특성/ 성질",
+                "upstream": "거슬러 올라가다",
+                "spider": "거미",
+                "have a short vogue": "단기간 유행하다",
+                "probably": "아마",
+                "override": "압도하다/ 유린하다",
+                "dread": "～을 매우 두려워하다",
+                "achievement": "성취",
+                "mechanism": "기계구조/ 기계화",
+                "bend": "구부리다/ 숙이다",
+                "stimulation": "자극",
+                "frequently": "자주/ 빈번하게",
+                "recitation": "설명/ 이야기/ 상술",
+                "mechanic": "기계공",
+                "salmon": "연어",
+                "unfold": "펴다/ 펼치다",
+                "be going to": "～ 할 예정이다",
+                "weigh": "무게가 나가다",
+                "stimulate": "자극시키다",
+                "be supposed to": "～ 하기로 되어 있다",
+                "current": "물살/ 흐름/ 현재의",
+                "aggression": "공격",
+                "aggressive": "공격적인/ 침략적인",
+                "attitude": "행동/ 태도",
+                "development": "발전",
+                "blame": "비난하다",
+                "digest": "소화하다/ 요약하다",
+                "chew": "～ 을 씹다/ 곰곰히 생각하다",
+                "field": "분야/ 현장/ 현지",
+                "frequent": "자주/ 빈번한",
+                "civilized": "문명화된",
+                "innately": "선천적으로",
+                "graduate": "졸업하다/ 졸업생/ 대학원생",
+                "self-control": "자제",
+                "necessity": "필요/ 필수품",
+                "self-applause": "자기 찬사",
+                "shake hands with": "악수하다",
+                "innate": "선천적인",
+                "responsible": "책임이 있는",
+                "rather A than B": "B라기 보다는 A",
+                "cope": "대처하다",
+                "change seats with": "자리를 바꾸다",
+                "impatient": "참을성 없는/ 초조한",
+                "safety": "안전/ 무사",
+                "take pride in": "～을 자랑스럽게 여기다",
+                "remind": "생각나게 하다",
+                "spin": "(실.거미줄) 잣다",
+                "underweight": "체중 미달",
+                "long for": "갈망하다/ 열망하다",
+                "impatience": "초조/ 안달",
+                "consider": "고려하다/ 숙고하다",
+                "mission": "사명",
+                "aggressor": "공격자",
+                "obvious": "명백한",
+                "have an influence on": "영향을 미치다",
+                "standard of living": "생활수준",
+                "posture": "자세/ 몸가짐/ 태도",
+                "digestion": "소화/ 요약",
+                "patience": "인내",
+                "close off": "막다/ 차단하다",
+                "overweight": "체중 과다",
+                "be responsible for": "～에 대한 책임이 있다",
+                "very": "매우/ 아주(부사)",
+                "applause": "박수갈채/ 성원",
+                "facial": "얼굴의",
+                "appropriate": "적당한/ 적절한",
+                "jaw": "턱",
+                "elevator": "승강기/ 엘러베이터",
+                "dull": "무딘",
+                "temporarily": "일시적으로/ 잠시",
+                "civilize": "문명화하다",
+                "downstream": "밑으로 내려가다",
+                "lengthy": "긴",
+                "circulation": "순환",
+                "mold": "형성하다/ 만들다",
+                "self-confidence": "자기확신",
+                "accomplish": "성취하다/ 완수하다",
+                "bend down": "굽히다",
+                "undergraduate": "학부생/ 대학생",
+                "considerate": "사려깊은",
+                "factory": "공장",
+                "considerable": "상당한",
+                "longing for": "～ 에 대한 갈망",
+                "dignity": "존엄/ 품위",
+                "get along with": "～ 와 잘 지내다",
+                "standard": "표준",
+                "able": "능력 있는",
+                "conversation": "대화/ 회화",
+                "inborn": "타고난/ 선천적인",
+                "specialize": "특별화하다",
+                "close": "닫다/ 가까운/ 친밀한",
+                "demand": "요구하다/ 주장하다",
+                "interact": "서로 영향을 끼치다",
+                "kneel": "무릎를 꿇다",
+                "reflect": "반영하다/ 반사하다",
+                "not to mention": "～ 은 말할 것도 없이",
+                "ball": "공",
+                "capable": "능력 있는",
+                "obviously": "명백하게",
+                "chew out": "～ 을 호되게 꾸짖다",
+                "kid": "아이/ 염소",
+                "opinion": "견해/ 의견/ 주장",
+                "nobility": "귀족/ 숭고/ 고결",
+                "suspicion": "수상/ 의심",
+                "character": "특징/ 특성/ 등장인물",
+                "struggle": "투쟁/ 싸움",
+                "be likely to": "～ 할 것 같다",
+                "annihilate": "전멸시키다",
+                "uncomfortable": "불편한",
+                "official": "공식적인",
+                "instinctively": "본능적으로",
+                "culture": "문화",
+                "with dignity": "존엄 있게/ 품위 있게",
+                "fry": "기름으로 튀기다/ 프라이하다",
+                "self-assessment": "자기 평가",
+                "mechanize": "기계화하다",
+                "in advance": "미리/ 이전에",
+                "stream": "개울/ 흐름/ 추세/ 경향",
+                "drowsiness": "졸림",
+                "converse": "대화하다",
+                "advancement": "발전/ 진보",
+                "interactive": "상호 작용하는",
+                "instead": "～ 대신에",
+                "moreover": "더구나/ 게다가",
+                "educational": "교육적인",
+                "alert": "빈틈없는/ 기민한",
+                "lean against": "～ 에 기대다",
+                "ability": "능력",
+                "vogue": "유행",
+                "mankind": "인류/ 인간",
+                "civilization": "문명",
+                "instruct": "가르치다/ 지시하다",
+                "etiquette": "예절",
+                "comfortable": "편안한",
+                "instinctive": "본능적인/ 천성의",
+                "be puzzled": "당황하다",
+                "puzzle": "당황하게 하다/ 수수깨끼",
+                "mean": "의미하다/ 작정이다",
+                "special": "특별한",
+                "behavior": "행동",
+                "muscle": "근육",
+                "instinct": "본능/ 본성/ 소질",
+                "cultural": "문화적인",
+                "recitative": "서술의",
+                "science": "과학",
+                "instructive": "교훈적인"
+            },
+            "part7": {
+                "ruin": "폐허/ 유적",
+                "strengthen": "강화하다/ 증가하다",
+                "forest": "산림/ 숲속",
+                "immune system": "면역체계",
+                "fairly": "상당히/ 꽤",
+                "local": "지방의",
+                "homogeneous": "동질적인",
+                "expend": "소비하다",
+                "facility": "시설(복수로)/ 편리",
+                "operation": "운영/ 작동/ 수술",
+                "organization": "조직",
+                "arise": "발생하다/ 나타나다",
+                "as well": "역시",
+                "soluble": "해결할 수 있는/ 녹는",
+                "expense": "비용/ 지출",
+                "involve": "포함하다",
+                "convenient": "편리한",
+                "blow": "불다/ 흩날리다",
+                "list": "명부에 올리다",
+                "actual": "실제의",
+                "expert": "숙련가/ 전문가",
+                "harmony": "조화",
+                "separate": "분리하다/ 분리된",
+                "discover": "～ 을 발견하다",
+                "upper": "더 위에 있는/ 상부의",
+                "depress": "우울하게 하다",
+                "tax": "세금",
+                "systematically": "조직적으로",
+                "environment": "환경",
+                "dependence": "의존",
+                "face-to-face": "얼굴을 맞대고",
+                "essential": "필수적인",
+                "independence": "독립",
+                "development": "발전",
+                "openly": "공적으로/ 솔직하게",
+                "deplorable": "개탄할 만한",
+                "inclusion": "포함",
+                "examine": "조사하다/ 검사하다",
+                "examination": "검사/ 시험",
+                "helpless": "쓸모 없는/ 무력한",
+                "on condition that": "～ 라는 조건으로",
+                "linguistic": "언어의/ 언어학",
+                "basically": "기본적으로",
+                "behavior": "행동",
+                "however": "그러나/ 그렇지만",
+                "entire": "전체의",
+                "expensive": "값비싼 / 비용이 드는",
+                "beastly": "짐승의/ 잔인한",
+                "organize": "조직화하다",
+                "contribute to": "～ 에 기여하다",
+                "arrangement": "배열/ 정돈/ 정리",
+                "unfair": "불공평한",
+                "individually": "개별적으로/ 따로따로",
+                "misplace": "잘못 놓다",
+                "skillful": "능숙한/ 기술이 좋은",
+                "flexible": "융통성이 있는",
+                "hunger": "굶주림/ 기아/ 갈망",
+                "pair": "한쌍/ 부부/ 한벌",
+                "be noted for": "～ 로 유명하다",
+                "inclusive": "포함하는",
+                "beast": "동물/ 짐승/ 가축",
+                "attitude": "태도, 자세",
+                "material": "물질적인",
+                "solution": "해결책/ 해답/ 용액",
+                "poke": "찌르다",
+                "operate": "작동하다/ 수술하다",
+                "recent": "최근의/ 새로운",
+                "as well as": "～ 뿐만 아니라",
+                "dweller": "거주자",
+                "surcharge": "추가요금",
+                "acid rain": "산성비",
+                "suburb": "교외/ 근교/ 주변",
+                "extend": "확장하다",
+                "task": "과업/ 일/ 사업",
+                "breathe": "숨쉬다/ 호흡하다",
+                "corruption": "부패",
+                "extension": "연장/ 확장/ 계속",
+                "burden": "짐/ 적하/ 적재량/ 책임/ 의무",
+                "touch": "만지다/ 접촉",
+                "coal": "석탄",
+                "actually": "실제로",
+                "behave": "행동하다",
+                "earnest": "진지한",
+                "burn": "타다/ 연소하다",
+                "contribute": "공헌하다/ 기여하다",
+                "polluted": "오염된",
+                "atmosphere": "대기권/ 대기/ 분위기",
+                "breath": "숨/ 호흡/ 생명",
+                "petroleum": "석유",
+                "pollution": "오염",
+                "depend on": "～ 에 의존하다",
+                "subject": "주제/ 과목/ 백성",
+                "brain": "두뇌",
+                "depression": "우울/ 의기소침",
+                "whole": "전부의/ 모든/ 완전한",
+                "develop": "발전시키다",
+                "firefight": "포격전/ 사격전",
+                "recently": "최근/ 근래/ 요즈음",
+                "exist": "존재하다",
+                "individual": "개개의/ 단일의",
+                "additionally": "게다가/ 더구나",
+                "comprehension": "이해력/ 이해",
+                "prove": "～ 을 증명하다",
+                "process": "가공하다/ 절차/ 처리",
+                "agency": "기관/ 단체",
+                "independent": "독립적인",
+                "individuate": "개별화하다",
+                "cross-cultural": "다른 종류의 문화간의",
+                "dwell": "살다/ 거주하다",
+                "physical": "신체적인/ 물질적인",
+                "mental": "정신적인",
+                "population": "인구",
+                "heart": "심장/ 핵심",
+                "slum": "빈민가",
+                "search": "～ 을 찾다",
+                "waste basket": "휴지통",
+                "separately": "따로 따로",
+                "corrupt": "타락한/ 부패한",
+                "carry": "옮기다/ 지니다",
+                "intonation": "억양/ 어조/ 음조",
+                "settler": "거주민",
+                "extensively": "널리/ 광범위하게",
+                "accuracy": "정확/ 정밀",
+                "indicate": "나타내다/ 지시하다",
+                "theory": "이론/ 이치/ 학설",
+                "evidence": "증거/ 증명",
+                "out of breath": "숨을 헐떡이며",
+                "raw": "날것의",
+                "ruinous": "파괴적인",
+                "in addition to": "게다가/ 더구나",
+                "comprehend": "이해하다",
+                "indication": "지시/ 표시",
+                "private": "사적인/ 개인적인",
+                "racial discrimination": "인종차별",
+                "however + 형용사": "아무리 ～라 할지라도",
+                "evil": "사악/ 악",
+                "entirety": "전부/ 완전 무결",
+                "progress": "진보",
+                "explore": "탐사하다/ 탐구하다",
+                "press": "누르다/ 언론/ 출판",
+                "urban": "도시의",
+                "keep up with": "따라잡다",
+                "connection": "연관/ 연결",
+                "local time": "지역시간",
+                "settle": "정착하다/ 해결하다",
+                "proof": "증거/ 시험",
+                "lower": "낮은/ 낮추다",
+                "race": "경주/ 종",
+                "leaf": "나뭇잎",
+                "charm": "매력/ 미색/ 아름다운 용모",
+                "meal": "식사",
+                "common to": "～ 에 공통적인",
+                "separation": "분리",
+                "machinery": "기계",
+                "immune": "면역의/ 항체",
+                "suspect": "의심스럽게 여기다",
+                "pollute": "오염시키다/ 더럽히다",
+                "sidewalk": "보도",
+                "immunity": "면역/ 면역성",
+                "attempt": "시도하다",
+                "deplore": "비탄하다/ 개탄하다",
+                "cheap": "싼/ 염가의 (dear)",
+                "pump": "펌프/ 심장",
+                "condition": "상황/ 조건",
+                "extensive": "광범위한/ 넓은",
+                "ruinate": "파멸시키다",
+                "endanger": "위태롭게 하다",
+                "convenience": "편리",
+                "accurate": "정확한/ 정밀한",
+                "acid": "산성의",
+                "helpful": "도움이 되는/ 유용한",
+                "complete": "완전한/ 전부의",
+                "waste gas": "폐기가스",
+                "discovery": "발견/ 탄로/ 발견물",
+                "unit": "단위",
+                "blow away": "～ 을 불어 없애다",
+                "waste": "～ 을 낭비하다/ 잃다",
+                "fair": "공평한/ 공정한",
+                "spelling": "철자",
+                "solve": "～ 을 풀다/ 해결하다",
+                "pattern": "형태/ 형식/ 패턴",
+                "dependent": "의존적인",
+                "strength": "체력/ 힘",
+                "basement": "지하실",
+                "charming": "유쾌한/ 매력적인",
+                "entirely": "전부/ 전체적으로",
+                "be involved in": "～ 에 관련되다",
+                "equipment": "도구/ 장비",
+                "electricity": "전기",
+                "cheapest": "값이 가장 싼",
+                "in order to": "～ 하기 위하여",
+                "Far Eastern": "극동의",
+                "oppress": "억압하다",
+                "subjective": "주관적인",
+                "include": "포함하다",
+                "hungry": "굶주린/ 배고픈",
+                "progressive": "진보적인",
+                "task wage": "임금/ 도급",
+                "rural": "전원의/ 시골의",
+                "racial": "인종의",
+                "breeze": "미풍/ 순풍"
+            }
+        },
+        {
+            "part8": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "part9": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "part3": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "password": "213",
+            "NAME": "zxcv",
+            "phone_number": "123",
+            "part2": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "part5": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "part1": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "part10": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "part7": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "part6": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "part4": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "part8": [
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                }
+            ],
+            "NAME": "aa",
+            "part3": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part2": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part6": [
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part4": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                }
+            ],
+            "password": "aa",
+            "part1": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                }
+            ],
+            "part9": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part10": [
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part7": [
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                }
+            ],
+            "part5": [
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "pass": 0,
+                    "try_count": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                },
+                {
+                    "try_count": 0,
+                    "pass": 0
+                }
+            ],
+            "phone_number": "12"
+        }
+    ],
+    "code": 200,
+    "next-uri": null,
+    "prev-uri": null,
+    "size": 8
+}

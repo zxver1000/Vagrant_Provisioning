@@ -1,0 +1,44 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cat-vol
+  namespace: metallb-system
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: cat-html
+  template:
+    metadata:
+      labels:
+        app: cat-html
+    spec:
+      containers:
+        - image: wlwhs5014/mapi:0.0.1
+          name: cat-html-con
+          volumeMounts:
+            - mountPath: /app/configs
+              name: cat-volume
+      volumes:
+        - name: cat-volume
+          nfs:
+            server: 211.183.5.120
+            path: /shared/configs
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: catcat
+  namespace: metallb-system
+spec:
+  selector:
+    app: cat-html
+  ports:
+    - name: http
+      protocol: TCP
+      port: 3000
+      targetPort: 3000
+  externalIPs:
+    - 211.183.6.1
+  type: LoadBalancer
