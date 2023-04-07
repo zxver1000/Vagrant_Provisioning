@@ -21,7 +21,8 @@ One Command(vagrant up)을 사용하여 Provisioning, Shell Script,yml를 이용
 - NFS
 - Flutter_Web service deploy,
 - Mapi api server service deploy
-- Dashboard
+- Kubernetes Dashboard
+- MetalLB
 
 
 
