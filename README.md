@@ -19,7 +19,6 @@ One Command(vagrant up)을 사용하여 Provisioning, Shell Script,yml를 이용
 - provisioning
 - kubernetes clustering
 - NFS
-- storage class
 - Flutter_Web service deploy,
 - Mapi api server service deploy
 - Dashboard
